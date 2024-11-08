@@ -1,0 +1,29 @@
+__Comandos de Git__
+
+1. Inicializa un repositorio
+git init
+
+2. Permite revisar el estatus de nuestro proyecto, revisar iar los Inc archivos archivnc modificados modificados o 0 agregados
+git status
+
+3. Permite clonar un repositorio remoto a nuestro git local
+git clone <url del repositorio remoto>
+
+4. Muestra todas las ramas locales, resaltando la rama activa con un asterisco (*).
+git branch
+
+5. Devuelve una lista de ramas
+git branch --list
+
+6. Esto crea una nueva rama llamada NombreRama, basada en la rama actual.
+git branch NombreRama
+
+7. Usa -d para forzar la eliminación si hay cambios no fusionados.
+git branch -d NombreRama
+
+8. Crear y cambiar a una nueva rama en un solo paso
+git checkout -b NombreRama
+ó
+git switch -c NombreRama
+
+9. 
