@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Inventory.Persistence")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Inventory.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c546a7bc8d40c917f68cc6e791922034e0b7f38")]
-[assembly: System.Reflection.AssemblyProductAttribute("Inventory.Persistence")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Inventory.Persistence")]
+[assembly: System.Reflection.AssemblyProductAttribute("Inventory.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Inventory.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
