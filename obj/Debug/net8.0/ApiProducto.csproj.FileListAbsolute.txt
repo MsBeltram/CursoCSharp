@@ -259,3 +259,4 @@ C:\Users\Usuario\Desktop\Curso CSharp\ApiProducto\obj\Debug\net8.0\refint\ApiPro
 C:\Users\Usuario\Desktop\Curso CSharp\ApiProducto\obj\Debug\net8.0\ApiProducto.pdb
 C:\Users\Usuario\Desktop\Curso CSharp\ApiProducto\obj\Debug\net8.0\ApiProducto.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Curso CSharp\ApiProducto\obj\Debug\net8.0\ref\ApiProducto.dll
+C:\Users\Usuario\Desktop\Curso CSharp\ApiProducto\obj\Debug\net8.0\ApiProducto.sourcelink.json

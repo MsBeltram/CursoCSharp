@@ -53,8 +53,8 @@ namespace ApiProducto.Controllers
         }
 
         //HttpPut
-        [HttpPut]
-        public async Task<IActionResult> PutProducto(int id, Producto producto)
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutProducto(int id, [FromBody] Producto producto)
         {
             if(id != producto.Id)
             {
