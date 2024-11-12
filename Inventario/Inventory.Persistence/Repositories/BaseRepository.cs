@@ -1,5 +1,6 @@
 using Inventory.Persistence.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace Inventory.Persistence.Repositories
 {
@@ -64,6 +65,9 @@ namespace Inventory.Persistence.Repositories
         public async Task<T> GetByIdAsync(int id)
         {
             var item = await _dbSet.FindAsync(id);
+            if(item==null){
+                throw new Exception();
+            }
             return item;
         }
 

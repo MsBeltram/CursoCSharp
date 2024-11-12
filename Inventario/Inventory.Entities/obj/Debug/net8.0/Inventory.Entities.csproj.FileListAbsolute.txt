@@ -21,3 +21,4 @@ C:\Users\Usuario\Desktop\ApiProducto\Inventario\Inventory.Entities\obj\Debug\net
 C:\Users\Usuario\Desktop\ApiProducto\Inventario\Inventory.Entities\obj\Debug\net8.0\refint\Inventory.Entities.dll
 C:\Users\Usuario\Desktop\ApiProducto\Inventario\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.pdb
 C:\Users\Usuario\Desktop\ApiProducto\Inventario\Inventory.Entities\obj\Debug\net8.0\ref\Inventory.Entities.dll
+C:\Users\Usuario\Desktop\ApiProducto\Inventario\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.sourcelink.json
