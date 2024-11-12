@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
         "projectName": "Inventory.API",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj"
               }
             }
           }
@@ -87,18 +87,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj",
         "projectName": "Inventory.Entities",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,18 +148,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj",
         "projectName": "Inventory.Persistence",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\Inventory.Persistence.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,8 +177,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.Entities\\Inventory.Entities.csproj"
               }
             }
           }
@@ -229,7 +229,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

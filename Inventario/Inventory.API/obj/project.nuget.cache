@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "az2LB6G4Na4=",
+  "dgSpecHash": "5228Q70V4kE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Proyecto Galicia Seguros\\PracticaSeguros\\Curso CSharp\\ApiProducto\\Inventario\\Inventory.API\\Inventory.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
