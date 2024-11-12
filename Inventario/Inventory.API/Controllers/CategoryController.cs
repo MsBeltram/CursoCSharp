@@ -22,7 +22,14 @@ namespace Inventory.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll(){
             var categories = await _categoryRepository.GetAllAsync();
-            return Ok();
+            return Ok(categories);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post(Category category)
+        {
+            var categoryCreated = await _categoryRepository.AddAsync(category);
+            return Ok(categoryCreated);
         }
     }
 }
