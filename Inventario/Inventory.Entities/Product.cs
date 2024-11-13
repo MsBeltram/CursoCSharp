@@ -14,7 +14,7 @@ namespace Inventory.Entities
         public string BarCode { get; set; } = string.Empty;
         public decimal Price { get; set; }
         public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
          public int CategoryId { get;set;}
         public Category Category {get;set;}
         public int SupplierId{get;set;}
