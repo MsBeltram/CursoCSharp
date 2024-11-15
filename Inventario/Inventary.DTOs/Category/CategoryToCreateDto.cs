@@ -7,8 +7,8 @@ namespace Inventary.DTOs.Category
 {
     public class CategoryToCreateDto
     {
-        public String Name { get; set; }
-        public String Description { get; set; }
+        public String? Name { get; set; }
+        public String? Description { get; set; }
 
     }
 }
