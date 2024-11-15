@@ -33,3 +33,4 @@ Migrations/**/*.Designer.cs
 
 # DLL Files
 **/*.dll
+*.cache

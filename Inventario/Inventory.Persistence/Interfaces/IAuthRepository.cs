@@ -1,5 +1,3 @@
-
-
 using Inventory.Entities;
 
 namespace Inventory.Persistence.Interfaces
@@ -8,6 +6,6 @@ namespace Inventory.Persistence.Interfaces
     {
         Task<User> Register(User user, string password);
         Task<User> Login(string email, string password);
-        Task<bool> UserExist(string email);
+        Task<bool> UserExists(string email);
     }
 }

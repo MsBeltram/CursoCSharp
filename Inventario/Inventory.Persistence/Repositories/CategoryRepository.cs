@@ -14,6 +14,25 @@ namespace Inventory.Persistence.Repositories
         {
             
         }
-        
+
+        public Task<bool> DeletAsync(Category entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> DeleteAsync(Category categoryToDelete)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> UpdateAsync(int id, Category categoryToUpdate)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<Category> ICategoryRepository.GetByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -13,5 +13,10 @@ namespace Inventory.Persistence.Repositories
         {
             
         }
+
+        public Task<bool> DeleteAsync(Supplier supplierToDelete)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

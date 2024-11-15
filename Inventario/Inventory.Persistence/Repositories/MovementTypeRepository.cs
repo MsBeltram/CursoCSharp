@@ -13,5 +13,10 @@ namespace Inventory.Persistence.Repositories
         {
             
         }
+
+        public Task<bool> DeleteAsync(MovementType movementTypeToDelete)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
